@@ -1,0 +1,23 @@
+.container {
+  border: 10px solid black;
+}
+
+.row {
+  border: 10px solid green;
+
+}
+
+.yellow {
+  background: yellow;
+  /* font-size: 15; */
+}
+
+.red {
+  background: red;
+  /* font-size: 12; */
+}
+
+.orange {
+  background: orange;
+  /* font-size: 10; */
+}

@@ -1,0 +1,24 @@
+.container {
+  border: 10px solid black;
+}
+
+.row {
+  border: 10px solid green;
+
+}
+
+.yellow {
+  background: yellow;
+
+
+}
+
+.red {
+  background: red;
+
+}
+
+.orange {
+  background: orange;
+
+}

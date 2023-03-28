@@ -1,0 +1,16 @@
+.container {
+  border: 10px solid black;
+}
+
+.row {
+  border: 10px solid saddlebrown;
+}
+
+.box-1 {
+  background: yellowgreen;
+
+}
+
+.box-2 {
+  background: blue;
+}

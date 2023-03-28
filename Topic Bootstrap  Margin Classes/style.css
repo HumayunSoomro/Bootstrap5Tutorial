@@ -1,0 +1,13 @@
+.container {
+  border: 10px solid green;
+}
+
+.box-1 {
+  background: lightseagreen;
+  min-height: 250px;
+}
+
+.box-2 {
+  background: violet;
+  min-height: 250px;
+}
